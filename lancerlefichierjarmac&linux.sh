@@ -1,2 +1,2 @@
 #!/bin/sh
-java -jar eqt2deg.jar
+javaw -jar eqt2deg.jar
