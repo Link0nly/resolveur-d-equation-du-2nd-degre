@@ -2,7 +2,7 @@ Bonjour à vous,
 
 c'est juste pour ajouter qu'il faut avoir java installé sur votre ordinateur je metterai plus tard des vrais executables pour éviter ça
 
-puis ouvrez le fichier qui correspond à votre système d'exploitation,
+puis ouvrez le dossier qui correspond à votre système d'exploitation,
 ceux qui sont sur windows doivent lancer launch_resolver.bat
 ceux sur mac et linux soivent lancer launch_resolver.sh
 
